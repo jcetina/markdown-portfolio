@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* My family
+* My friends
+* A shared meal
+* Sleep
